@@ -1,0 +1,13 @@
+{
+    "window" : {
+        "width" : 728,
+        "height" : 512,
+        "title" : "Nyooming"
+    },
+    "game" : {
+        "FPS" : 60
+    },
+    "default": {
+        "default_font" : "Arcadia-Regular"
+    }
+}
